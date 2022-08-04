@@ -1,1 +1,0 @@
-$(document).on('ready',function(){$('.demo-pie-1').pieChart({barColor:'#86c540',trackColor:'#fff',lineCap:'round',lineWidth:16,onStep:function(from,to,percent){$(this.element).find('.pie-value').text(Math.round(percent)+'%');}});});
