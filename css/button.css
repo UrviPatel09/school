@@ -6,7 +6,7 @@
     margin: 5px;
 }
 .default_btn{
-    background-color: #cfa670;
+    background-color: #405cf4;
     color: #fff;
     line-height: 45px;
     display: inline-block;
@@ -14,7 +14,7 @@
     border-radius: 3px;
 }
 .default_btn:hover{
-    background-color: #9b7645;
+    background-color: #405cf4;
     color: #fff;
 }
 /* ==========================================================================
@@ -26,10 +26,10 @@
     line-height: 45px;
     display: inline-block;
     padding: 0 25px;
-    border: 1px solid #cfa670;
+    border: 1px solid #405cf4;
     border-radius: 3px;
 }
 .border_btn:hover{
-    background-color: #9b7645;
+    background-color: #405cf4;
     color: #fff;
 }
